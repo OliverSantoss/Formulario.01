@@ -1,2 +1,2 @@
 # formul-rio.01
-Formulário simples
+Meu projeto desenvolvido por mim com orientação da Danki code. Este é um formulário base
